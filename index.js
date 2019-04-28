@@ -1,6 +1,6 @@
 var express = require("express");
 var globalConfig = require("./config");
-var loader = require("./loading")
+var loader = require("./loading");
 var app = new express();
 
 
