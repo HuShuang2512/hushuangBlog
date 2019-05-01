@@ -98,11 +98,7 @@ body {
     padding: 0px 0px 0px 0px;
 }
 
-.content-right {
-    float: right;
-    width: 34%;
-    padding: 0px 0px 0px 0px;
-}
+
 .right_moodule {
     display: inline-block;
     width: 100%;
@@ -197,10 +193,7 @@ body {
     cursor: pointer;
     text-align: center;
 }
-.footer > p {
-    margin-top: 10px;
-    color: #a2a2a2;
-}
+
 
 .page_tool {
     margin-top: 20px;
